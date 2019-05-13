@@ -1,8 +1,6 @@
 # 第一章：绪论
 
-<img src="http://latex.codecogs.com/gif.latex?a^2" />  
-
-
+![](http://latex.codecogs.com/gif.latex? a^2)
 
 ### 1.基本术语
 
